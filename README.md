@@ -10,7 +10,7 @@
 
 <ul type = '•'>
 <li>📝 I regulary write articles on <a href="https://adityakaushal.github.io/" target="blank">adityakaushal.github.io</a></li>
-<li>🎧 I frequently create podcasts on topics like tech, music, art, science and engineering.<li>
+<li>🎧 I frequently create podcasts on topics like tech, music, art, science and engineering.</li>
 <li>🔭 I’m currently working on Python, Azure, BigData, Airflow, PostgreSQL, MySQL, and Java and building stuff around them.</li>
 <li>🐍 🛠️  I recently build a mini project : https://github.com/adityakaushal/PM-2.5-Predictor for predicting the PM 2.5 particles.</li>
 <li>🎙️ Check out my recent Podcast on Future Tech and HOW-TO-Questions on Tech here : https://open.spotify.com/episode/0CPd7GwGICmNUy8465jSQW?si=YvISaf_qT4226kC8ECUauA</li>

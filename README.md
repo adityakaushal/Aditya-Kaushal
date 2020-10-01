@@ -19,3 +19,5 @@
 <a href="https://twitter.com/adityak_98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="adityakaushal" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/adityakaushal98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aditya-kaushal" height="20" width="20" /></a>
 </p>
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)

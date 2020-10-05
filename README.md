@@ -6,7 +6,6 @@
 
 
 <h1 align="center">Waassuuupp 😜🖖👋, I'm Aditya Kaushal</h1>
-<h3 align="center"> I am currently working at Brillio, India</h3>
 
 <ul type = '•'>
 <li>📝 I regulary write articles on <a href="https://adityakaushal.github.io/" target="blank">adityakaushal.github.io</a></li>
